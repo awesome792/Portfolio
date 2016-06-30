@@ -1,0 +1,113 @@
+body {
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiNxbMUHA_V4hdN5WNr3hyYj6hDdqt93e7rKjFKKADtEb6DoT3);
+   background color: #4aaaa5;}
+
+   .navbar-header{
+position: static;
+width: 640px;
+
+   }
+   
+
+  .navbar-collapse{
+    background-image: url(http://www.freelargeimages.com/wp-content/uploads/2015/04/Free_Background_Wallpaper_09.jpg);
+  }
+h1{
+    color: ##4aaaa5;
+    font-size: 14px;
+}
+
+.navbar-brand {
+
+    background-color: white;
+    color: white;
+}
+
+h3{
+    text-align: center;
+}
+
+.container{
+
+    width: 960px;
+   
+
+
+ 
+}
+
+/* The animation code */
+@keyframes example {
+    10%   {background-color: red; left:0px; top:0px;}
+    25%  {background-color: yellow; left:200px; top:0px;}
+    50%  {background-color: blue; left:200px; top:200px;}
+    75%  {background-color: green; left:0px; top:200px;}
+    100% {background-color: red; left:0px; top:0px;}
+}
+
+.navbar-collaps {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    animation-name: homework;
+    animation-duration: 20s;
+}
+
+p{
+    font-family: 'Trirong', serif;
+
+}
+
+h4 {
+    text-align: center;
+}
+
+a:hover{
+
+}
+
+.panel-body{
+    margin-left: 45x;
+    margin-top: 5px;
+    }
+.col-md-3{
+    margin-left: 60px;
+}
+.row{
+    margin-left: 20px;
+}
+
+p{
+
+    background-color: black;
+    animation-name: example;
+    animation-duration: 4s;
+
+}
+
+#pic{
+    position: static;
+border: 3px solid #4aaaa5;
+}
+
+.footer{
+    background-color: orange;
+    animation-name: example;
+    animation-duration: 5s;
+
+
+   }
+
+   .wrapper{
+
+    
+   }
+
+   h1{
+    font-size: 20px;
+    font-style: Georgia;
+    color: pink;
+   }
+   
+   @media screen and (max-width: 980px; 768px; 640px;)
+   
